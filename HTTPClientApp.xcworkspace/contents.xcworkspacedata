@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/dumitrutabara/Desktop/university/ANUL 4/SEMESTRUL 1/PAM - Programarea Aplicatiilor Mobile/Laboratoare/Laboratorul 3/HTTPClientApp/ .xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
